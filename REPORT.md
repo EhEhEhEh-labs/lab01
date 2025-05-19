@@ -21,8 +21,8 @@ $ tar -xf boost_1_69_0.tar.gz
 ```sh
 $ find -maxdepth 1 -type f | wc -l
 12
-#find = spisok filov
-#wc -l = podschet kolichestve strok(1 file = 1 stroka)
+#find = список файлов
+#wc -l = подсчёт количества строк(1 файл = 1 строка)
 ```
 4. Подсчитайте количество файлов в директории `~/boost_1_69_0` **включая** вложенные директории.
 ```sh
