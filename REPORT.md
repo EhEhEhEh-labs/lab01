@@ -57,7 +57,7 @@ $ readlink -f boost/any.hpp
 7. Выведите в консоль все файлы, где упоминается последовательность `boost::asio`.
 ```sh
 $ grep -r "boost::asio" > containsboostasio.txt
-V file containsboostasio.txt, toje na gist-e.
+В файле containsboostasio.txt, на gist.
 ```
 [containsboostasio.txt](https://gist.github.com/EhEhEhEh-labs/24e91eeb981f4ac8385c20d5e9f566f0#file-containsboostasio-txt/)
 
